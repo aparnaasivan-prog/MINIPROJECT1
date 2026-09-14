@@ -2,6 +2,9 @@
 
 ## 📊 Mini Project 1 | Global Business Intelligence Dashboard
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6c1e63e8-c649-463d-b8f7-021037eaf880" />
+
+
 A Power BI business intelligence project designed to analyze multinational corporation (MNC) performance across **sales, profitability, employees, companies, products, countries, and industries**.
 
 The project demonstrates the complete data analytics workflow, including **data cleaning, transformation, data modeling, DAX calculations, and interactive dashboard development**.
@@ -54,89 +57,24 @@ These steps improved **data consistency, accuracy, and reliability** for dashboa
 
 ---
 
-## 🧩 Data Modeling
 
-A structured relational data model was developed in Power BI to connect the major business entities.
-
-The model supports analysis across:
-
-- Employees
-- Companies
-- Sales / Transactions
-- Products
-- Countries
-- Departments
-- Industries
-
-Relationships between tables were established to enable efficient cross-filtering and interactive dashboard analysis.
-
----
-
-## 📐 Key DAX Measures
-
-The project includes analytical measures such as:
-
-- **Total Sales**
-- **Total Profit**
-- **Average Profit**
-- **Profit Margin**
-- **YTD Sales**
-- **YTD Profit**
-- **Transaction Count**
-- **Employee Count**
-- **Average Salary**
-- **Sales Target Achievement**
-
-These measures were used to create meaningful KPIs and visualizations.
+.
 
 ---
 
 # 📈 Dashboard Overview
 
-The MNC Global Analysis dashboard provides a consolidated view of global business performance.
+This project provides a comprehensive business intelligence dashboard for analyzing multinational company (MNC) performance across global operations. It integrates insights on sales, profitability, employee distribution, and product performance to support data-driven decision-making.
 
-### 1. 🌐 MNC Global Analysis
+Module	Description
+MNC Global Analysis	Summarizes total employees, companies, sales, and profit. Highlights top-performing companies and revenue by country and industry.
+Employee & Company Analysis	Examines workforce distribution, salary trends, departmental roles, and global payroll mapping.
+Sales & Profitability	Tracks total sales, profit, quantity sold, and loss transactions. Includes payment method analysis and global profit leaders.
 
-This section provides an executive-level overview of:
 
-- Total Employees
-- Total Companies
-- Total Sales
-- Total Profit
-- Top-performing Companies
-- Revenue by Country
-- Revenue by Industry
-- Global business performance
 
-### 2. 👥 Employee & Company Analysis
+T.
 
-This section focuses on workforce and organizational analysis:
-
-- Employee distribution
-- Employee gender analysis
-- Department-wise employee distribution
-- Job role analysis
-- Average salary by department
-- Country-wise employee distribution
-- Company performance
-- Global payroll analysis
-
-### 3. 💰 Sales & Profitability Analysis
-
-This section analyzes financial and transactional performance:
-
-- Total Sales
-- Total Profit
-- Quantity Sold
-- Profit Margin
-- Loss Transactions
-- Sales by Company
-- Profit by Company
-- Payment Method Analysis
-- Monthly sales and profit trends
-- Country-level profitability
-
----
 
 # 🔍 Key Insights
 
